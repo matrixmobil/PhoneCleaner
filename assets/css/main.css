@@ -1921,10 +1921,11 @@ textarea {
 .logo {
   font-weight: 800;
   font-size: 2rem;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
 
 .logo span {
-  font-weight: 200;
+  font-weight: 100;
 }
 
 .navbar .logo {
